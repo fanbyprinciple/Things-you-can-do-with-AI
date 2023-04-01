@@ -55,6 +55,7 @@ fancyGPT - can change the art style in which you chat
 
 # building GPT from scratch by andrej karpathy
 https://www.youtube.com/watch?v=kCc8FmEb1nY
+describes your nanoGPT
 
 # Emergentminds - all AI related news
 https://www.emergentmind.com/
@@ -63,4 +64,17 @@ https://www.emergentmind.com/
 https://www.youtube.com/watch?v=fhBw3j_O9LE
 demonstrates how to offload the entire thing onto chatgpt
 
+# Etzy designs with with photopea and canva 
+creating patterns with deepfake on etzy
+wedding resources at etzy
+real estate guides, airbnb cleaning guide
+logo design shop
+resume template
+mockups
+#printify and etsy look interesting
+
+# podcast to listen to
+https://www.youtube.com/watch?v=L_Guz73e6fw
+
+# stable diffusion
 
