@@ -77,4 +77,8 @@ mockups
 https://www.youtube.com/watch?v=L_Guz73e6fw
 
 # stable diffusion
+# Codex - github copilot
+# Whisper AI
+# GPT-3, OPT, BLOOM, GPT-NeoX
+# a tweet bot with chatgpt
 
