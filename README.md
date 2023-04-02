@@ -81,4 +81,4 @@ https://www.youtube.com/watch?v=L_Guz73e6fw
 # Whisper AI
 # GPT-3, OPT, BLOOM, GPT-NeoX
 # a tweet bot with chatgpt
-
+# perplexity ai
